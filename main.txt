@@ -3,6 +3,9 @@ main()
 //code 
 }
 feature1()
+
+feature2()
+
 {
 //code
 }
